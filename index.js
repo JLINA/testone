@@ -1,3 +1,3 @@
 $(function () {
-      $("one").css({});
+      $("one").css({"border":"1px solid red"});
 })
